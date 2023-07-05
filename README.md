@@ -1,34 +1,3 @@
 # hello-world-servlet
-HHHHHHHHHHelloWorld Servlet repo example with corresponding Dockerfile!fff
-hdfdfdfdfdellioooo
-DFFFDFDF
-monday 26th august 2019 
-hello
-devops 9am batch
-ddsdsdsd
-webhook test
-10/12/2019
-13/12/2019
-03/02/2020
-09/04/2020 ---> THURSDAY
-05/07/2020
-05/07/2020 ---> Sundayss
-05/07/2020 ---> Sundayss
-06/10/2020
-07/10/2020
-08/10/2020
-01/12/2020
-02/25/2021 --> Thursday
-02/26/2021 --> Friday is last day for the week
-03/15/2021 -->Monday
-03/16/2021
-03/22/2021
-09/04/2021--->Friday
-12/04/2021
-09/06/2021-->Wednesday
-05/07/2021 ---> Monday is today
-06/07/2021 ---> Today is Tuesday
-10/21/2021
-31/10/2022 ---> Today is Monday and time is 9.10am
-1/11/2022
-07-12-2022
+ Project involves building and deploying an application as a single, unified system. The project typically involves integrating various software components and features into a single codebase and deploying it as a single unit. DevOps practices are used to automate the development, testing, and deployment processes, allowing for faster and more reliable software delivery. However, since the entire application is built and deployed as a single unit, it can be challenging to scale and maintain the application over time.Project involves building and deploying an application as a single, unified system. The project typically involves integrating various software components and features into a single codebase and deploying it as a single unit. DevOps practices are used to automate the development, testing, and deployment processes, allowing for faster and more reliable software delivery. However, since the entire application is built and deployed as a single unit, it can be challenging to scale and maintain the application over time.
+Skills: Amazon Web Services (AWS) · Linux · Amazon EC2 · Nexus · Tomcat · Sonarqube · Jenkins · Maven · GitHubSkills: Ama
